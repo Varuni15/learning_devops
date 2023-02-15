@@ -1,2 +1,2 @@
-# learning_devops
-Repo for devops
+ # learning_devops
+Repo for devops practise
