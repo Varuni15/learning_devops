@@ -1,6 +1,3 @@
 #!/bin/bash
 
-for i in {1..10}
-do 
-	echo "Hello Git"
-done
+echo "HELLO,from varuni in GITHUB running on 'hostname'"
