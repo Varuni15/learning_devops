@@ -1,0 +1,12 @@
+#!/bin/bash
+
+name=Varuni
+age=26
+
+echo I am $name and my $age
+
+host=$(hostname)
+path=$(pwd)
+
+echo $host
+echo $path
